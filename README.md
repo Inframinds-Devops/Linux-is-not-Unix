@@ -11,6 +11,6 @@
     <li><strong>Practice Makes u Perfect!!</strong> Practical assignments to test our skills and reinforce our learning.</li>
 
 <h2>Current Assignments</h2>
-<p>Check out the <a href="assignments/">Assignments</a> folder for the latest tasks we're tackling.</p>
+<p>Check out the <a href="assignments/">Assignments</a> folder for the latest tasks I'm tackling.</p>
 
 
