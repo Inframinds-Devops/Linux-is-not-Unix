@@ -1,16 +1,16 @@
-<h1>🚀 Welcome to InfraMinds: Devops Learning Journey! 🐧</h1>
+<h1>🚀 Welcome to Linux-Not-Unix: Devops Learning Journey! 🐧</h1>
 
-<h2>Who Are We?</h2>
+<h2>Who Am I?</h2>
 <p>
-    We are <strong>InfraMinds</strong> - a dynamic team of four tech enthusiasts: <strong>Vahant, Abhigya, Azeem,</strong> and <strong>Ishan</strong>. Together, we're diving deep into the world of Devops, tackling assignments, helping each other out, and creating a collaborative environment where learning is a bore but also fun!
+    I am <strong>Vahant</strong>. I am diving deep into the world of Devops, tackling assignments,and creating a collaborative environment where learning isn't a bore but also fun!
 </p>
 
-<h2>🎯 Our Objectives:</h2>
+<h2>🎯 My Objectives:</h2>
 <ul>
     <li><strong>Learn Together:</strong> Share knowledge, solve problems, and grow as a team.</li>
     <li><strong>Practice Makes u Perfect!!</strong> Practical assignments to test our skills and reinforce our learning.</li>
 
 <h2>Current Assignments</h2>
-<p>Check out the <a href="assignments/">Assignments</a> folder for the latest tasks we're tackling.</p>
+<p>Check out the <a href="assignments/">Assignments</a> folder for the latest tasks I'm tackling.</p>
 
 
